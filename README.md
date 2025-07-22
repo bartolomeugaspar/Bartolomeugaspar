@@ -1,9 +1,6 @@
 ## 👩🏻‍💻 Bartolomeu Gaspar 👩🏻‍💻 
 **`Software Developper`**
 Me chamo Bartolomeu Gaspar, tenho 21 anos e sou natural da Provincia da Huila. Concluí o ensino médio no IMTLA, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de API's. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Bartolomeu Gaspar](https://www.youtube.com/@BartolomeuGasparBG)", onde ensino a criar projetos Desktop com c#, e também através do Instagram, com o perfil chamado "[Bartolomeu Gaspar](https://www.instagram.com/bartolomeu_gaspar_)".
-
-<center>
- 
 &nbsp;
 &nbsp;
 
@@ -19,9 +16,6 @@ Me chamo Bartolomeu Gaspar, tenho 21 anos e sou natural da Provincia da Huila. C
   />
 </p>
 
-&nbsp;
-&nbsp;
-</center>
 &nbsp;
 &nbsp;
  
