@@ -100,3 +100,8 @@ Me chamo Bartolomeu Gaspar, tenho 21 anos e sou natural da Provincia da Huila. C
     src="https://github-readme-stats.vercel.app/api?username=bartolomeugaspar&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
+
+&nbsp;
+&nbsp;
+
+## Contacts:
