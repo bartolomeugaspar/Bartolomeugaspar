@@ -16,6 +16,7 @@ Me chamo Bartolomeu Gaspar, tenho 21 anos e sou natural da Provincia da Huila. C
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
+    height="30" 
     </a> 
     <a href="https://github.com/bartolomeugaspar?tab=repositories&sort=stargazers">
         <img 
@@ -139,7 +140,7 @@ Me chamo Bartolomeu Gaspar, tenho 21 anos e sou natural da Provincia da Huila. C
     width="40"
     style="padding-right: 10px;"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg
-    ">
+    "/>
 
 <br/>
 <br/>
