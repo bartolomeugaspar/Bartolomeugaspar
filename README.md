@@ -2,6 +2,26 @@
 **`Software Developper`**
 Me chamo Bartolomeu Gaspar, tenho 21 anos e sou natural da Provincia da Huila. Concluí o ensino médio no IMTLA, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de API's. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Bartolomeu Gaspar](https://www.youtube.com/@BartolomeuGasparBG)", onde ensino a criar projetos Desktop com c#, e também através do Instagram, com o perfil chamado "[Bartolomeu Gaspar](https://www.instagram.com/bartolomeu_gaspar_)".
 
+<center>
+ 
+&nbsp;
+&nbsp;
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=bartolomeugaspar&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+</p>
+
+&nbsp;
+&nbsp;
+</center>
 &nbsp;
 &nbsp;
  
@@ -48,23 +68,6 @@ Me chamo Bartolomeu Gaspar, tenho 21 anos e sou natural da Provincia da Huila. C
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
-&nbsp;
-&nbsp;
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=bartolomeugaspar&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
-
-&nbsp;
-&nbsp;
 
 ## Contacts:
 <div> 
