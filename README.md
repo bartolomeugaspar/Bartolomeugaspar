@@ -2,6 +2,10 @@
 **`Software Developper`**
 Me chamo Bartolomeu Gaspar, tenho 21 anos e sou natural da Provincia da Huila. Concluí o ensino médio no IMTLA, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de API's. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Bartolomeu Gaspar](https://www.youtube.com/@BartolomeuGasparBG)", onde ensino a criar projetos Desktop com c#, e também através do Instagram, com o perfil chamado "[Bartolomeu Gaspar](https://www.instagram.com/bartolomeu_gaspar_)".
 
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+ </div>
 &nbsp;
 &nbsp;
  <br><br>
