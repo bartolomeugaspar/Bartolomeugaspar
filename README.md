@@ -71,14 +71,6 @@ Me chamo Bartolomeu Gaspar, tenho 21 anos e sou natural da Provincia da Huila. C
 />
 <img 
     align="left" 
-    alt="Csharp"
-    title="Csharp" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://images.app.goo.gl/PhBzuybsuqWRHHnY6" 
-/>
-<img 
-    align="left" 
     alt="Next.js" 
     title="Next.js"
     width="30px" 
@@ -124,14 +116,6 @@ Me chamo Bartolomeu Gaspar, tenho 21 anos e sou natural da Provincia da Huila. C
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://images.app.goo.gl/DtqiJFkB7uNckRdu8" 
 />
 <img 
     align="left" 
