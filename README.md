@@ -37,9 +37,6 @@ Me chamo Bartolomeu Gaspar, tenho 21 anos e sou natural da Provincia da Huila. C
 </p>
  
  &nbsp;
- &nbsp;
-
-
 
 ## My Skills
 
